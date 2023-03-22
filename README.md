@@ -3,6 +3,8 @@
 <p align="left">Меня зовут Константин.</p>
 <p align="left">Я frontend разработчик и Я разрабатываю Ваши web-ресурсы.</p>
 
+<br><br>
+
 <h3 align="left">Контакты:</h3>
 <p align="left">
   Telegram: https://t.me/rinserrr
@@ -10,6 +12,8 @@
 <p align="left">
   Email: <a href="mailto:getfromwork@gmail.com">getfromwork@gmail.com</a>
 </p>
+
+<br><br>
 
 <h3 align="left">Стек:</h3>
 <p align="left"> 
@@ -25,6 +29,8 @@
 <p align="left">И в настоящее время изучаю - 
   <a aling="middle" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
+
+<br><br>
 
 <h3 align="left">Проекты:</h3>
 <h4> Коммерческие проекты*<h4>
