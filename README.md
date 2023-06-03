@@ -34,9 +34,9 @@
 
 <h3 align="left">Проекты:</h3>
 <h4> Коммерческие проекты*<h4>
-Лига А
-<p>Круизы в Антарктику: <a href="https://rinserrr.github.io/antarctic-cruises/"> Antarctic Сruises </a> / <a href="https://github.com/rinserrr/antarctic-cruises">Репозиторий</a><br>
-<p>Интернет-магазин кофейных напитков: <a href="https://rinserrr.github.io/drink2go/"> Drink2GO </a> / <a href="https://github.com/rinserrr/drink2go">Репозиторий</a><br>
+  <p>Лига А</p>
+  <p>Круизы в Антарктику: <a href="https://rinserrr.github.io/antarctic-cruises/"> Antarctic Сruises </a> / <a href="https://github.com/rinserrr/antarctic-cruises">Репозиторий</a><br>
+  <p>Интернет-магазин кофейных напитков: <a href="https://rinserrr.github.io/drink2go/"> Drink2GO </a> / <a href="https://github.com/rinserrr/drink2go">Репозиторий</a><br>
  
 
 <br>
