@@ -34,10 +34,10 @@
 
 <h3 align="left">Проекты:</h3>
 <h4> Коммерческие проекты*<h4>
+Лига А
+<p>Круизы в Антарктику: <a href="https://rinserrr.github.io/antarctic-cruises/"> Antarctic Сruises </a> / <a href="https://github.com/rinserrr/antarctic-cruises">Репозиторий</a><br>
+<p>Интернет-магазин кофейных напитков: <a href="https://rinserrr.github.io/drink2go/"> Drink2GO </a> / <a href="https://github.com/rinserrr/drink2go">Репозиторий</a><br>
+ 
 
 <br>
-
-<h4> Pet-проекты*<h4>
-<p>Интернет-магазин вязанных вещей: <a href="https://rinserrr.github.io/mishka/"> Мишка </a> / <a href="https://rinserrr.github.io/mishka/catalog.html"> Мишка-Каталог </a> / <a href="https://github.com/rinserrr/mishka">Репозиторий</a><br>
-Был упор на оттачивание навыков по верстке, соответствие семантическим правилам и pixel perfect.
-<p>
+<br>
