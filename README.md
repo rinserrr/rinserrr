@@ -42,7 +42,5 @@
 <br><br><br><br>
 
 <p>Энциклопедия Пилота отредактировано 12.11.17<p>
-<a href="PilotEncyclopedia121117-1-274.pdf">Pilot Encyclopedia 1-274.pdf</a><br>
+<a href="https://rinserrr.github.io/rinserrr/PilotEncyclopedia121117-1-274.pdf" target="_blank">Pilot Encyclopedia 1-274.pdf</a><br>
 <a href="https://rinserrr.github.io/rinserrr/PilotEncyclopedia121117-275-477.pdf" target="_blank">Pilot Encyclopedia 275-477.pdf</a>
-
-
