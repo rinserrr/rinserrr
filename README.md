@@ -39,5 +39,10 @@
   <p align="left">Интернет-магазин кофейных напитков: <a href="https://rinserrr.github.io/drink2go/"> Drink2GO </a> / <a href="https://github.com/rinserrr/drink2go">Репозиторий</a><br>
  
 
-<br>
-<br>
+<br><br><br><br>
+
+<p>Энциклопедия Пилота отредактировано 12.11.17<p>
+<a href="PilotEncyclopedia121117-1-274.pdf">PilotEncyclopedia121117-1-274.pdf</a>
+<a href="https://rinserrr.github.io/rinserrr/PilotEncyclopedia121117-275-477.pdf" target="_blank">PilotEncyclopedia121117-275-477.pdf</a>
+
+
